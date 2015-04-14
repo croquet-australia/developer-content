@@ -1,3 +1,3 @@
-# Croquet Australia - Developer Content
+# Croquet Australia - Website Content
 
-Content used during development and testing of http://croquet-australia.com.au.
+Content for http://croquet-australia.com.au.
