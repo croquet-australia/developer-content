@@ -14,13 +14,13 @@ Alan Sands WA
 
 Greg Whymark QLD
 
-<img src="latest-results/gold-medal-all-players.jpg" title="Players competing for the Gold Medal. Callum Hyland TAS, Ken Bald VIC, Greg Whymark QLD, Simon Hockey SA, Alan Sands WA, Jim Nicholls NSW" />
+<img src="/news/2015/04/latest-results/gold-medal-all-players.jpg" title="Players competing for the Gold Medal. Callum Hyland TAS, Ken Bald VIC, Greg Whymark QLD, Simon Hockey SA, Alan Sands WA, Jim Nicholls NSW" />
 
 Players competing for the Gold Medal<br/>
 Left to right<br/>
 Callum Hyland TAS, Ken Bald VIC, Greg Whymark QLD, Simon Hockey SA, Alan Sands WA, Jim Nicholls NSW
 
-<img src="latest-results/gold-medal-winners.jpg" title="Winners of Silver & Gold Medal. Callum Hyland TAS (Silver Medal), Simon Hockey SA (Gold Medal)" />
+<img src="/news/2015/04/latest-results/gold-medal-winners.jpg" title="Winners of Silver & Gold Medal. Callum Hyland TAS (Silver Medal), Simon Hockey SA (Gold Medal)" />
 
 Winners of Silver & Gold Medal<br/>
 Left to right<br/>
@@ -50,7 +50,7 @@ Callum Hyland TAS (Silver Medal), Simon Hockey SA (Gold Medal)
 
 **Second Place and recipients of The WH Smith Tray** Victoria
 
-<img src="latest-results/winners-eire-cup-nsw.jpg" title="Winners of the Eire Cup. NSW Alan Walsh, Peter Landrebe, Alison Sharpe, Alix Verge, Claire Bassett, Jim Nicholls, Alan Honey, Rosie Landrebe, Jean Pack." />
+<img src="/news/2015/04/latest-results/winners-eire-cup-nsw.jpg" title="Winners of the Eire Cup. NSW Alan Walsh, Peter Landrebe, Alison Sharpe, Alix Verge, Claire Bassett, Jim Nicholls, Alan Honey, Rosie Landrebe, Jean Pack." />
 
 New South Wales<br />
 Left to right<br />

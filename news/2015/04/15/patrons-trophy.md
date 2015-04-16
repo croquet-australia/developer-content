@@ -10,6 +10,6 @@ In 2014 The Patron's Trophy went to the West for the first time and was hosted b
 
 <br/>
 
-<img src="patrons-trophy/bunbury-coast-line-1.jpg" title="Bunbury Coast Line" />
-<img src="patrons-trophy/bunbury-coast-line-2.jpg" title="Bunbury Coast Line" />
-<img src="patrons-trophy/moorabinda-croquet-club.jpg" title="Moorabinda Croquet Club" />
+<img src="/news/2015/04/patrons-trophy/bunbury-coast-line-1.jpg" title="Bunbury Coast Line" />
+<img src="/news/2015/04/patrons-trophy/bunbury-coast-line-2.jpg" title="Bunbury Coast Line" />
+<img src="/news/2015/04/patrons-trophy/moorabinda-croquet-club.jpg" title="Moorabinda Croquet Club" />
