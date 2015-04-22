@@ -1,5 +1,12 @@
-# Patron's Trophy
+---
+Title: Patron's Trophy 
+Published: 2015-04-15T00:00:00.0000000+10:00
+Author:
+  Name: Susan Linge
+  Email: admin@croquet-australia.com.au
+  TimeZoneId: AUS Eastern Standard Time
 
+---
 The **Patron's Trophy** is being held once again in Bunbury at the Moorabinda Croquet Club from Saturday 6 to Monday 8 June.
 
 Enter online at [The Duffers Tice](http://www.thedufferstice.com/tournaments-by-category/ac/30-patrons).  

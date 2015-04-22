@@ -1,5 +1,12 @@
-# Results
+---
+Title: Results 
+Published: 2015-04-15T00:00:00.0000000+10:00
+Author:
+  Name: Susan Linge
+  Email: admin@croquet-australia.com.au
+  TimeZoneId: AUS Eastern Standard Time
 
+---
 ## Association Croquet Gold Medal
 
 **Gold Medal** Simon Hockey SA

@@ -1,5 +1,12 @@
-# Update to Tournament Regulations
+---
+Title: Update to Tournament Regulations 
+Published: 2015-04-10T00:00:00.0000000+10:00
+Author:
+  Name: Susan Linge
+  Email: admin@croquet-australia.com.au
+  TimeZoneId: AUS Eastern Standard Time
 
+---
 ## Clause 12 Responsibilities of Players
 
 The ACA Executive has amended Clause 12.7 clarifying what Players are to wear when playing in ACA Events. Document Change Tracking

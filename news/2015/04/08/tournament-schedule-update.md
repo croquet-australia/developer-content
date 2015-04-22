@@ -1,5 +1,12 @@
-# Tournament Schedule Update
+---
+Title: Tournament Schedule Update 
+Published: 2015-04-08T00:00:00.0000000+10:00
+Author:
+  Name: Susan Linge
+  Email: admin@croquet-australia.com.au
+  TimeZoneId: AUS Eastern Standard Time
 
+---
 The [Tournament Schedule](/tournaments/tournament-program.pdf) has been updated. - 
 
 ## 2015

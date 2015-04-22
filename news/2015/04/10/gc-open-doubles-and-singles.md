@@ -1,5 +1,12 @@
-# GC Open Doubles and Singles
+---
+Title: GC Open Doubles and Singles
+Published: 2015-04-10T00:00:00.0000000+10:00
+Author:
+  Name: Susan Linge
+  Email: admin@croquet-australia.com.au
+  TimeZoneId: AUS Eastern Standard Time
 
+---
 The 2015 **Golf Croquet Open Doubles and Singles** is being held at Cairnlea from Saturday 9 May to Sunday 17 May.
 
 ## Golf Croquet Open Doubles
