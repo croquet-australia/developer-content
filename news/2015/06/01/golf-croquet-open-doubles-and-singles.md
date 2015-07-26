@@ -16,8 +16,6 @@ Cairnlea, Saturday 9 to Tuesday 12 May, 2015
 
 **Winner Fleming Plates** Peter Freer and Stephen Thornton NSW
 
-<img src="/gc-open-doubles-winners.jpg" alt="Winners Open Doubles"/>
-
 ##Open Singles
 Cairnlea, Wednesday 13 to Sunday 17 May, 2015
 
@@ -25,7 +23,7 @@ Cairnlea, Wednesday 13 to Sunday 17 May, 2015
 **Runner Up** Peter Freer NSW<br/>
 **Third Place** Barry Haydon SA<br/>
 
-<img src="/winner-and-runner-up-open-singles.jpg" alt="John van der Touw being congratulated by Runner Up, Peter Freer"/>
+<img src="/winner-and-runner-up-open-singles.jpg" alt="John van der Touw being congratulated by Runner Up, Peter Freer" title="John van der Touw being congratulated by Runner Up, Peter Freer" />
 
 **Winner Y Event** Terry Hopkins VIC<br/>
 **Winner Z Event** Ron McBride SA<br/>

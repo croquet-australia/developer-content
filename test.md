@@ -7,4 +7,4 @@ Author:
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<img src="/bob-godfrey.jpg" alt="Bob Godfrey"/>
+<img src="/bob-godfrey.jpg" alt="Bob Godfrey" title="Bob Godfrey"/>

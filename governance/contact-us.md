@@ -1,13 +1,13 @@
 ---
 Title: governance\contact us
-Published: 2015-06-03T09:28:47.0683663+10:00
+Published: 2015-06-23T13:08:02.1524776+10:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<img src= "/aca-logo.jpg" alt = "aca logo"/>
+<img src="/aca-logo.jpg" alt="ACA Logo" title="ACA Logo"/>
 
 
 
@@ -55,7 +55,8 @@ Author:
 <br/>10 Solomon Street, MOSMAN PARK WA 6012
 <br/>Ph: 08.9384 8053; Mob: 0403 981 866
 
-##**COMMITTEES**
+<a name="committees"></a>
+##COMMITTEES
 
 ###**Events Committee**
 <br/>[Peter Freer (Chair)](mailto:events@croquet-australia.com.au)
@@ -86,6 +87,7 @@ Author:
 <br/>Captain – Peter Landrebe 
 <br/>HPM GC
 
+<a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
 
 <br/>**High Performance Manager – Association Croquet**
