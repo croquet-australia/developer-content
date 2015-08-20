@@ -1,9 +1,9 @@
 ---
-Title: governance\contact us
-Published: 2015-06-23T13:08:02.1524776+10:00
+Title: governance/contact us
+Published: 2015-08-19T15:03:39.0720368+10:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -80,7 +80,7 @@ Author:
 <br/>HPM AC - Peter Landrebe
 
 ###**GC Selection Committee**
-<br/>[John Compton (Chair)](mailto:comptos46@bigpond.com)
+<br/>[John Compton (Chair)](mailto:gcselectors@croquet-australia.com.au)
 <br/>Ph: 02.4933 5846 
 <br/>Anne Quinn (Sec.)
 <br/>Lester Hughes
@@ -98,7 +98,7 @@ Author:
 <br/>[Vacant](mailto:gchpm@croquet-australia.com.au)
 
 <br/>**National Director Gateball**
-<br/>[John Park](Mailto:)info@gateball.com.au
+<br/>[John Park](mailto:info@gateball.com.au)
 <br/>Mob: 0448 227 467 
 
 <br/>**National Refereeing Director Association Croquet**
@@ -116,8 +116,8 @@ Author:
 <br/> [Barb Piggott](mailto:ncdgc@croquet-australia.com.au)
 <br/>Mob: 0427 629 953
 
-<br/>**National Director of Schools Croquet**
-<br/>[Jacky McDonald](mailto:ndsc@croquet-australia.com.au)
+<br/>**National Director Under 21 Croquet**
+<br/>[Jacky McDonald](mailto:ndu21c@croquet-australia.com.au)
 <br/>Ph: 02.4930 0733; Mob: 0409 246 294 
 
 <br/>**Complaints Officer**
@@ -139,9 +139,6 @@ Author:
 <br/>**Assistant Treasurer**
 <br/>[Susan Linge](mailto:admin@croquet-australia.com.au)
 <br/>Mob: 0457 678 380
-
-<br/>**Magazine Director**
-<br/>[Max Murray](mailto:murram@acr.net.au)
 
 <br/>**Editor and Subscription Manager**
 <br/>[Carolyn Ribone](mailto:magazine@croquet-australia.com.au)

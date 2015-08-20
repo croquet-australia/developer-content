@@ -1,6 +1,6 @@
 ---
 Title: "Results - Patron’s Trophy"
-Published: 2015-06-16T12:17:28.7445378+10:00
+Published: 2015-07-28T08:54:22.6417248+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -12,7 +12,7 @@ Moorabinda Croquet Club, Bunbury, WA – Saturday 6 to Monday 8 June, 2015
 <br/>Winner Ian Dumergue (WA)
 <br/>Runner Up Claire Bassett (NSW)
 
-<img src="/p1000236.jpg" alt="Claire Bassett Ian Dumegue and Megan Fardon, Member ACA Board" title="Claire Bassett Ian Dumegue and Megan Fardon, Member ACA Board">
+<img src="/p1000236.jpg" alt="Claire Bassett Ian Dumegue and Megan Fardon, Member ACA Board" title="Claire Bassett Ian Dumergue and Megan Fardon, Member ACA Board">
 
 <br/>Winner Y Event Kathleen Colclough (QLD)
 <br/>Winner W Event Lindsay David (QLD)
