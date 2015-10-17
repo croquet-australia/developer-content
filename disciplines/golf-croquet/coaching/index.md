@@ -1,6 +1,6 @@
 ---
 Title: Coaching Golf Croquet (GC)
-Published: 2015-08-15T17:45:49.8214534+10:00
+Published: 2015-09-20T12:11:31.4418833+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -19,4 +19,4 @@ Author:
 |[Victoria State Co-ordinator of Golf Croquet](mailto:golfcroquet@croquetvic.asn.au)|Lorraine Gutcher|03.5134 4990|
 |[Tasmania State Director of Coaching](mailto:btbunch@vision.net.au)|Sue Beattie|03.6229 5702|
 |[South Australia State Co-ordinator of Coaching](mailto:haydon@kern.com.au)|Barry Haydon|0419 424 184|
-|[Western Australia State Director of Coaching](mailto:jcapobianco82@gmail.com)|Jock Capobianco|-|
+|Western Australia State Director of Coaching|Vacant|-|

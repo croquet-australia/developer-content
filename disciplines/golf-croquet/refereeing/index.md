@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2015-06-23T10:10:21.2431175+10:00
+Published: 2015-09-21T10:37:09.1007225+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -16,7 +16,8 @@ To qualify as an ACA accredited Golf Croquet Referee candidates are required to 
 
 A National Golf Croquet Referee Training Program is being developed by the Golf Croquet Technical Panel but in the interim each State has its own training programs and courses and information can be obtained from your State Director of Refereeing. 
 
-[The Golf Croquet Refereeing Manual](/disciplines/golf-croquet/refereeing/gc-refereeing-manual.pdf), dated April, 2015 is a good source of information for Golf Croquet Referees, Golf Croquet Trainee Referees (for whom it is prescribed reading) and Golf Croquet players. 
+
+ [*The Golf Croquet Refereeing Manual* - April 2015](/gc-refereeing-manual-april-2015.pdf) is a good source of information for Golf Croquet Referees, Golf Croquet Trainee Referees (for whom it is prescribed reading) and Golf Croquet players. 
 
 Pages of the Manual may be amended periodically as the rules are revised, policies amended and when new technical information becomes available. Updates will be listed on the ACA website. 
 
