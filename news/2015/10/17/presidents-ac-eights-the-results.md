@@ -1,9 +1,9 @@
 ---
 Title: President's AC Eights - the Results
-Published: 2015-10-17T13:18:24.8523037+11:00
+Published: 2015-10-20T10:49:16.3502045+11:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -12,7 +12,7 @@ The President’s AC Eights were held at Cairnlea from Friday 9 to Monday 12 Oct
 <br/>As usual the tournament was fiercely competitive and winning an Eight is a feather in the cap for any player.  This year the victors were – 
 
 <br/>Winner of the First Eight and receiving the Eddie Hunt Trophy and gold medal was Robert Fletcher (VIC).
-Receiving the silver medal was Stephen Forster (NSW).
+Receiving the silver medal was Stephen Forster (VIC).
 
 <br/>Winner of the Second Eight and receiving the Tom Howat Cup and gold medal was Alan Honey (NSW).
 Receiving the silver medal was Alan Walsh also from New South Wales.
@@ -25,4 +25,4 @@ Receiving the silver medal was David Wise(SA).
 <br/>Winner of the Women’s Eights and receiving the Jean Armstrong Bowl was Kerri-Ann Organ (VIC).
 Receiving the silver medal was Virginia Arney(SA).
 
-<img src="presidents-ac-eights-winners-third-eight-and-womens-eight-and-runners-up-2.jpg" alt="Winners and Runners up Third Eight and Women’s Eights" title="David Wise, Stephen Pearce, Kerri-Ann Organ and Virginia Arney"/>
+<img src="presidents-ac-eights-david-wise-stephen-pearce-kerri-ann-organ-and-virginia-arney-2.jpg" alt="Winners and Runners up Third Eight and Women’s Eights" title="David Wise, Stephen Pearce, Kerri-Ann Organ and Virginia Arney"/>
