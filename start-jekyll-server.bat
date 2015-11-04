@@ -6,7 +6,7 @@ call "..\..\Open Source\PortableJekyll\setpath.cmd"
 if not "%errorlevel%" == "0" goto Error
 
 echo Changing to website directory...
-pushd %~dp0source
+pushd %~dp0jekyll-template
 if not "%errorlevel%" == "0" goto Error
 
 echo Starting Jekyll server...
