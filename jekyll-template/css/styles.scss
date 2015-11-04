@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+.body-content {
+    margin-top: 70px;
+}
+
+td {
+    border: 1px solid lightgray;
+    padding: 4px;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "alerts",
+        "blog-posts",
+        "error-page"
+;

@@ -1,0 +1,25 @@
+.blog-post img {
+    max-width: 100%;
+}
+
+.blog-post h1 {
+    border-bottom: 1px solid gray;
+    font-size: 25px;
+    margin-bottom: 4px;
+}
+
+.blog-post h2 {
+    font-size: 20px;
+    text-decoration: underline gray;
+}
+
+.blog-post h3 {
+    font-size: 17px;
+    text-decoration: underline gray;
+}
+
+.blog-post-published {
+    color: gray;
+    font-size: small;
+    font-style: italic;
+}
