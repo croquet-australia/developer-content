@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Australian Croquet Association trading as Croquet Australia & Gateball Australia 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://croquet-australia.com.au" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title
 # todo: remove this line? twitter_username: jekyllrb
 # todo: remove this line? github_username:  jekyll
 
