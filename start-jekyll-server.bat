@@ -10,7 +10,7 @@ pushd %~dp0jekyll-template
 if not "%errorlevel%" == "0" goto Error
 
 echo Starting Jekyll server...
-jekyll serve
+jekyll serve --incremental
 if not "%errorlevel%" == "0" goto Error
 goto Finally
 

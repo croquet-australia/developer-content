@@ -3,12 +3,19 @@ layout: default
 ---
 <h1>Croquet Australia</h1>
 <h2>Latest News</h2>
-{% for post in site.posts %}
-  <article class="blog-post">
-    <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-    <p class="blog-post-published">Posted {{ post.date | date: "%A, %B %-d, %Y" }}</p>
-    <div class="blog-post-content">
-      {{ post.content }}
-    </div>
-  </article>
-{% endfor %}
+<div>
+  {% for post in paginator.posts %}
+    <article class="blog-post">
+      <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+      <p class="blog-post-published">Posted {{ post.date | date: "%A, %B %-d, %Y" }}</p>
+      <div class="blog-post-content">
+        {{ post.content }}
+      </div>
+    </article>
+  {% endfor %}
+</div>
+<div class="center">
+  <a href="{{ paginator.previous_page_path }}" class="btn btn-info btn-previous" role="button">&#10094; Newer</a>
+  <a href="/news" class="btn btn-info btn-archives" role="button">Archives</a>
+  <a href="{{ paginator.next_page_path }}" class="btn btn-info btn-previous" role="button">Older &#10095;</a>
+</div>
