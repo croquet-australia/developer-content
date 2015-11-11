@@ -5,10 +5,15 @@ layout: default
 <h2>Latest News</h2>
 <div>
   {% for post in paginator.posts %}
-    <article class="blog-post">
-      <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-      <p class="blog-post-published">Posted {{ post.date | date: "%A, %B %-d, %Y" }}</p>
-      <div class="blog-post-content">
+    <article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
+      <header>
+        <h1 itemprop="name headline"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+        <p class="blog-post-published">
+          <datetime datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">Posted {{ post.date | date: "%A, %B %-d, %Y" }}</datetime>
+          by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+        </p>
+      </header>
+      <div class="blog-post-content" itemprop="articleBody">
         {{ post.content }}
       </div>
     </article>
