@@ -1,0 +1,17 @@
+{
+    "name": "croquet-australia-website",
+    "version": "0.0.0",
+    "authors": [
+        "Tim Murphy <tim@26tp.com>"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {        
+        "bootstrap-submenu": "~1.2.11"
+    }
+}
