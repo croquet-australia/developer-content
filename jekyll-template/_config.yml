@@ -20,3 +20,6 @@ gems: [jekyll-paginate]
 # Build settings
 # todo: what are the markdown alternatives
 markdown: kramdown
+
+exclude:
+- node_modules/

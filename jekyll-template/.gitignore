@@ -1,6 +1,9 @@
-_site
-.sass-cache
 .jekyll-metadata
+
+_site/
+.sass-cache/
+bower_components/
+node_modules/
 
 # todo: remove following lines when site it ready for deployment.
 disciplines/
