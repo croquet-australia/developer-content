@@ -1,0 +1,14 @@
+{
+    "name": "croquet-australia.com.au",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "devDependencies": {
+    },
+    "dependencies": {
+    },
+    "overrides": {
+    }
+}

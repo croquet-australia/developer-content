@@ -1,1 +1,5 @@
+# Common
+node_modules/
+
+# Solution specific
 jekyll-template/_posts/
