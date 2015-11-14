@@ -17,8 +17,7 @@ gulp.task('build', function () {
     return gulp
         .src('')
         .pipe(shell([
-            'echo hello',
-            'echo world'
+            'powershell.exe -NoProfile -ExecutionPolicy unrestricted -Command "%cd%\\scripts\\Build-JekyllWebsite.ps1 -RepositoryDirectory %cd% -ToolsDirectory %cd%\\tools; exit $LASTEXITCODE"'
         ]));
 });
 
